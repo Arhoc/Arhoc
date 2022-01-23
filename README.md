@@ -3,6 +3,6 @@
   <p><i>¡Bienvenido a mi mente!</i></p>
 </div>
 <div>
-  <i>Tengo conocimientos de C, C++, Go y Python<br/>Mi lenguaje de programación favorito es Go</i>
-  <i align="center">METAS</i>
+  <p><i>Tengo conocimientos de C, C++, Go y Python<br/>Mi lenguaje de programación favorito es Go</i></p>
+  <p><i align="center">METAS</i></p>
 </div>
