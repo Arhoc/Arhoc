@@ -4,5 +4,5 @@
 </div>
 <div>
   <p><i>Tengo conocimientos de C, C++, Go y Python<br/>Mi lenguaje de programación favorito es Go</i></p>
-  <p align="center><i>METAS</i></p>
+  <p align="center"><i>METAS</i></p>
 </div>
