@@ -1,5 +1,5 @@
 <div>
-  <center><h2>Un placer, puedes llamarme arhoc</h2></center>
+  <h2 align="center">Un placer, puedes llamarme arhoc</h2>
   <p><i>¡Bienvenido a mi mente!</i></p>
 </div>
 <div>
