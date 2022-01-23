@@ -1,5 +1,5 @@
 <div>
-  <h2 align="center">Soy Arhoc</h2>
+  <h1 align="center">Soy Arhoc</h1>
   <p><i>¡Bienvenido a mi mente!</i></p>
 </div>
 <div>
