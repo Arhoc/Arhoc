@@ -3,7 +3,5 @@
   <p><i>¡Bienvenido a mi mente!</i></p>
 </div>
 <div>
-  <i>Tengo conocimientos de C, C++, Python y Go
-    Mia sueños son aprender seguridad informática y seguir programando hasta la eternidad
-  </i>
+  <i>Tengo conocimientos de C, C++, Go y Python<br/>Mi lenguaje de programación favorito es Go</i>
 </div>
