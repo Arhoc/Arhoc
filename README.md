@@ -5,4 +5,5 @@
 <div>
   <p><i>Tengo conocimientos de C, C++, Go y Python<br/>Mi lenguaje de programación favorito es Go<br/>Me gusta aprender ... es divertido</i></p>
   <h3 align="center">METAS</h3>
+  <p>✗ Volverme experto en ciberseguridad<br/>✗ Que alguien me ame<br/>✓ disfrutar la programación</p>
 </div>
