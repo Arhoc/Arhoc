@@ -7,7 +7,7 @@
   - Go <br/>
   - Python <br/>
   - Vala <br/>
-</b><</i>
+</b></i>
 
 <hr/>
 
