@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Arhoc, un placer.</h1>
+<h1 align="center">Hola, soy Arhoc, un placer. (uso Arch btw)</h1>
 <p>Actualmente tengo conocimientos de:</p>
 
 <i><b>
