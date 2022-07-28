@@ -6,7 +6,6 @@
   - C++ <br/>
   - Go <br/>
   - Python <br/>
-  - Vala <br/>
 </b></i>
 
 <hr/>
