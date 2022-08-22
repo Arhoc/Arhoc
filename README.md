@@ -5,6 +5,7 @@
   - C <br/>
   - C++ <br/>
   - Go <br/>
+  - R <br/>
   - Python <br/>
 </b></i>
 
