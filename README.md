@@ -2,8 +2,6 @@
 <p>Actualmente tengo conocimientos de:</p>
 
 <i><b>
-  - C <br/>
-  - C++ <br/>
   - Go <br/>
   - R <br/>
   - Python <br/>
