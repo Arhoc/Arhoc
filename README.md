@@ -5,8 +5,8 @@
   <b>
   - Go <br/>
   - Python <br/>
-  - HTML
-  - CSS
+  - HTML <br/>
+  - CSS <br/>
   </b>
 </i>
 
