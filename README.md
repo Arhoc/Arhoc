@@ -4,8 +4,9 @@
 <i>
   <b>
   - Go <br/>
-  - R <br/>
   - Python <br/>
+  - HTML
+  - CSS
   </b>
 </i>
 
