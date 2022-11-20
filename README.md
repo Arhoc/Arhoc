@@ -1,11 +1,13 @@
-<h1 align="center">Hola, soy Arhoc, un placer. (uso Arch btw)</h1>
-<p>Actualmente tengo conocimientos de:</p>
+<h1 align="center">Hello, i'm Arhoc</h1>
+<p>For now, my knowledges are:</p>
 
-<i><b>
+<i>
+  <b>
   - Go <br/>
   - R <br/>
   - Python <br/>
-</b></i>
+  </b>
+</i>
 
 <hr/>
 
