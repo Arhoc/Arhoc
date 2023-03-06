@@ -5,6 +5,8 @@
   <b>
   - Go <br/>
   - Python <br/>
+  - Node.js <br/>
+  - C/C++
   - HTML <br/>
   - CSS <br/>
   </b>
