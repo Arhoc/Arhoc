@@ -1,6 +1,6 @@
 # Hello there, my name is hades.
 ## Languages
-### Python
+🐍 Python
 
 <hr/>
 
