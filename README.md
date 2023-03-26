@@ -1,16 +1,4 @@
-<h1 align="center">Hello, i'm Arhoc</h1>
-<p>For now, my knowledges are:</p>
-
-<i>
-  <b>
-  - Go <br/>
-  - Python <br/>
-  - Node.js <br/>
-  - C/C++
-  - HTML <br/>
-  - CSS <br/>
-  </b>
-</i>
+# Knowledges
 
 <hr/>
 
