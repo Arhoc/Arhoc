@@ -22,7 +22,7 @@ Skills: Python / JavaScript / HTML / CSS / C / C++ / Go
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arhoc)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Arhoc&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Arhoc&show_icons=true&count_private=true&theme=carbon)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Arhoc)  
 
