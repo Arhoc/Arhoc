@@ -2,7 +2,7 @@
 #### I like programming a lot...huh
 ![I like programming a lot...huh](https://cdn.wallpapersafari.com/71/21/9W1Dus.jpg)
 
-I am 14 years old, and I am a young programmer passionate about the world of cybersecurity, as well as new technologies, I do well in many areas, as well as I am willing to learn, if I do not know a solution to a problem, I do not sleep until I find one.
+I am a very young programmer passionate about the world of cybersecurity, as well as new technologies, I do well in many areas, as well as I am willing to learn, if I do not know a solution to a problem, I do not sleep until I find one.
 
 Skills: Python / JavaScript / HTML / CSS / C / C++ / Go
 
