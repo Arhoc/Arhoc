@@ -1,33 +1,52 @@
-### Hi there 👋, My name is Aidoneo
-#### I like programming a lot...huh
-![I like programming a lot...huh](https://cdn.wallpapersafari.com/71/21/9W1Dus.jpg)
+<h2 align="left">Hi 👋! My name is Aidoneo and I'm a  forming Pentester from Mexico!</h2>
 
-I am a very young programmer passionate about the world of cybersecurity, as well as new technologies, I do well in many areas, as well as I am willing to learn, if I do not know a solution to a problem, I do not sleep until I find one.
+###
 
-Skills: Python / JavaScript / HTML / CSS / C / C++ / Go
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arhoc&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Arhoc&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-- 🔭 I’m currently working on a browser data stealer written in C 
-- 🌱 I’m currently learning Node.js and ExpressJS 
-- 👯 I’m looking to collaborate on any project for free 
-- 💬 Ask me about the world of the offensive cybersecurity 
-- 📫 How to reach me: Arhoc#0716 
-- 😄 Pronouns: He/Him 
+###
 
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Arhoc)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/arhoc/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/deadknifes/)  
+###
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" width="42" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" width="42" alt="cplusplus logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/perl/perl-original.svg" height="30" width="42" alt="perl logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="42" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
+</div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Arhoc)](https://github.com/ryo-ma/github-profile-trophy)
+###
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arhoc)](https://github.com/anuraghazra/github-readme-stats)
+<div align="left">
+  <a href="https://discord.com/users/1060546505288716378" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="arhoc@protonmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.instagram.com/deadknifes/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+</div>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Arhoc&show_icons=true&count_private=true)  
+###
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Arhoc)  
+<br clear="both">
 
-![GitHub metrics](https://metrics.lecoq.io/Arhoc)  
+<img src="https://raw.githubusercontent.com/Arhoc/Arhoc/output/snake.svg" alt="Snake animation" />
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Arhoc&theme=cobalt)  
+###
 
-![Profile views](https://gpvc.arturio.dev/Arhoc)  
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Arhoc/count.svg?"  />
+</div>
+
+###
