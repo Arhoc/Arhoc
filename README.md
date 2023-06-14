@@ -55,5 +55,8 @@
 
 ###
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Arhoc/count.svg?"  />
+</div>
 
 ###
