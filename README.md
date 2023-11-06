@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=Arhoc&color=blueviolet)
 
 # 💫 About Me:
-✨ Creating bugs since 2019 <br>
+✨ Creating bugs since the gibson <br>
 📚 I'm currently learning Forensic Science <br>
 🎯 Goals: Reach the highest level of knowledge possible. <br>
 🎲 Fun fact: The books and computers raised me, then my parents. <br>
